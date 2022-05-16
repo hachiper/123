@@ -38,7 +38,7 @@
 #include <numeric> // inner_product
 #include <iostream>
 #include <cmath>
-
+#include<sisiajfa>
 namespace rcsc {
 
 ////////////////////////////////////////////////////////////////
